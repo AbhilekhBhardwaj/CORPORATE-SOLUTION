@@ -8,7 +8,7 @@ export default defineConfig({
   resolve: {
     alias: {
       // Optional: Use '@' as a shorthand for the 'src' directory
-      '@': '/src',
+   
     },
   },
   build: {
